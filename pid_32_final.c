@@ -1,7 +1,7 @@
 /* rpmmeasurement.c
  *
  * Created: 02-09-2017 18:12:18
- * Author : Sharmaji
+ * Author : dkrocks
  Perfect code till date 2/6
  modification possible in pid constants, can be increased
  */
