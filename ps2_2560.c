@@ -2,7 +2,7 @@
  * ps2_16_linetrace.c
  *
  * Created: 05-12-2016 16:36:38
- * Author : HP
+ * Author : dkrocks
  */
 
 
